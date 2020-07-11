@@ -1,0 +1,3 @@
+[submodule "modules/ShenmueDKPy"]
+	path = modules/ShenmueDKPy
+	url = https://github.com/Shenmue-Mods/ShenmueDKPy.git
